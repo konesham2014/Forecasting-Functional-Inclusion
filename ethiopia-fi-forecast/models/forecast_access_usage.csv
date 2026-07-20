@@ -1,0 +1,19 @@
+indicator,indicator_code,year,scenario,point_forecast,ci_low,ci_high
+Access (Account Ownership),ACC_OWNERSHIP,2025,pessimistic,49.4,45.9,52.9
+Access (Account Ownership),ACC_OWNERSHIP,2025,base,50.0,46.5,53.5
+Access (Account Ownership),ACC_OWNERSHIP,2025,optimistic,50.6,47.1,54.1
+Usage (Digital Payment Adoption),USG_DIGITAL_PAYMENT,2025,pessimistic,35.0,30.5,39.5
+Usage (Digital Payment Adoption),USG_DIGITAL_PAYMENT,2025,base,36.1,31.6,40.6
+Usage (Digital Payment Adoption),USG_DIGITAL_PAYMENT,2025,optimistic,37.1,32.6,41.6
+Access (Account Ownership),ACC_OWNERSHIP,2026,pessimistic,50.2,45.2,55.2
+Access (Account Ownership),ACC_OWNERSHIP,2026,base,51.8,46.8,56.8
+Access (Account Ownership),ACC_OWNERSHIP,2026,optimistic,53.3,48.3,58.3
+Usage (Digital Payment Adoption),USG_DIGITAL_PAYMENT,2026,pessimistic,35.5,29.0,42.0
+Usage (Digital Payment Adoption),USG_DIGITAL_PAYMENT,2026,base,38.2,31.7,44.7
+Usage (Digital Payment Adoption),USG_DIGITAL_PAYMENT,2026,optimistic,40.6,34.1,47.1
+Access (Account Ownership),ACC_OWNERSHIP,2027,pessimistic,50.7,44.2,57.2
+Access (Account Ownership),ACC_OWNERSHIP,2027,base,53.1,46.6,59.6
+Access (Account Ownership),ACC_OWNERSHIP,2027,optimistic,55.3,48.8,61.8
+Usage (Digital Payment Adoption),USG_DIGITAL_PAYMENT,2027,pessimistic,35.6,27.1,44.1
+Usage (Digital Payment Adoption),USG_DIGITAL_PAYMENT,2027,base,39.4,30.9,47.9
+Usage (Digital Payment Adoption),USG_DIGITAL_PAYMENT,2027,optimistic,42.9,34.4,51.4
