@@ -1,0 +1,26 @@
+field,value,description
+record_type,observation,A measured/reported value
+record_type,event,"A policy, product launch, market entry, or milestone"
+record_type,impact_link,A modeled relationship between an event and an indicator
+record_type,target,An official policy goal
+pillar,access,Global Findex Access dimension (account ownership)
+pillar,usage,Global Findex Usage dimension (digital payments)
+pillar,enabler,"Infrastructure/enabler variable, not itself a Findex pillar"
+category,policy,Regulatory or strategic policy action
+category,product_launch,New product or service launch
+category,market_entry,New operator/competitor enters the market
+category,infrastructure,"Network, ID, or switching infrastructure investment"
+category,regulatory,Licensing or directive-level regulatory change
+category,milestone,"Notable data-driven milestone, not itself a discrete action"
+confidence,high,"Verified from primary source (survey, official report)"
+confidence,medium,Secondary source or comparable-country analogy
+confidence,low,Estimate/proxy with significant uncertainty
+impact_direction,positive,Event is associated with an increase in the indicator
+impact_direction,negative,Event is associated with a decrease in the indicator
+indicator_code,ACC_OWNERSHIP,"Account Ownership Rate (Access pillar, headline)"
+indicator_code,ACC_MM_ACCOUNT,Mobile Money Account Ownership (Access)
+indicator_code,USG_DIGITAL_PAYMENT,"Digital Payment Adoption Rate (Usage pillar, headline)"
+indicator_code,USG_WAGE_DIGITAL,Wage receipt via account (Usage)
+indicator_code,OPS_P2P_ATM_RATIO,P2P transfer value / ATM withdrawal value
+indicator_code,ENV_4G_COVERAGE,4G population coverage (%) - enabler
+indicator_code,ENV_MOBILE_PENETRATION,Mobile subscription penetration (%) - enabler
